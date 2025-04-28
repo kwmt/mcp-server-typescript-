@@ -12,9 +12,7 @@
     "check": "biome check --write",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "build"
-  ],
+  "files": ["build"],
   "keywords": [],
   "author": "",
   "license": "ISC",
